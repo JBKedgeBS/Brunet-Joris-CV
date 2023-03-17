@@ -1,0 +1,93 @@
+/* Write some CSS below */
+Body{
+    background: #E7F3FF;
+    color: #010204;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    font-weight: 650;
+    color: #022954;
+    font-family: 'inter', sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: #010204;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-weight: 650;
+    font-family: 'inter', sans-serif;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 900;
+    color: #9482C6;
+    font-family: 'inter', sans-serif;
+}
+
+.card-white{
+    background-color:#FAFAFA;
+    padding: 50px;
+    box-shadow: 0px 10px 30px rgb(0,0 ,0, 0.2);
+    border-radius: 4px;
+    margin: 20px 0px;
+    display: block;
+}
+
+.container{
+    margin: 10px auto;
+    width: 700px;
+}
+
+.btn-violet{
+    text-decoration: none;
+    background-color:#9482C6;
+    padding: 13px 19px;
+    color: white;
+    font-weight: 700;
+    font-family: 'inter',sans-serif;
+    border-radius: 4px;
+}
+
+.btn-violet:hover{
+    background-color: grey;
+}
+
+.img-circle{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.img-rectangle{
+    height: 80px;
+    border-radius: 4px;
+}
+
+#introduction{
+    margin-bottom: 40px;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+}
+
+.btn-blank {
+    text-decoration: none;
+}
+
+.icon {
+    padding: 20px;
+    width: 50px;
+}
